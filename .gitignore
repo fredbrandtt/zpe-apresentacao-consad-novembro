@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+node_modules/
+package-lock.json
+
+# Material de origem (ofício, áudios da presidência, transcrições, planilhas): fica só local
+fontes/
+
+# Artefatos de verificação visual (Playwright)
+.shots/
